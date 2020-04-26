@@ -1,4 +1,4 @@
-package net.jkrieger.timecomplexity;
+package net.jkrieger.codility.timecomplexity;
 
 class FrogJmp {
 
