@@ -1,4 +1,4 @@
-package net.jkrieger.arrays;
+package net.jkrieger.codility.arrays;
 
 import org.junit.Test;
 
